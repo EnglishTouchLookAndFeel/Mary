@@ -1,0 +1,86 @@
+body, html {
+  background-color: #b7e4b7;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background-color: whitesmoke;
+}
+
+.HOME {
+  height: 10%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.HOME button {
+  background-color: #a8d8a8;
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+}
+
+.MAIN {
+  height: 80%;
+  width: 100%;
+  background: greenyellow;
+  margin: 0;
+  padding: 0;
+  text-align: centre;
+}
+
+.MAIN ul {
+  height: 50%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: blue;
+}
+
+.MAIN ul li {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 33.33%;
+}
+
+.MAIN ul li button {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+  margin-right: 0%;
+  padding: 0;
+  background-color: violet;
+  height: 70%;
+  font-size: 100%;
+  width: 70%;
+  border-radius: 20%;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.BACK {
+  height: 10%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.BACK button {
+  background-color: #c92f2f;
+  height: 100%;
+  width: 100%;
+}
+/*# sourceMappingURL=main.css.map */
